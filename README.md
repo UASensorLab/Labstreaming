@@ -15,3 +15,11 @@ This need run the [Receiver.py] first.
 The file type '.hea' and '.dat' is the file use for ECG.
 ```
 [1.py](https://github.com/UASensorLab/Labstreaming/blob/main/1.py) This file is read ECG and have dashboard.
+
+###  Pylsl:
+```  bash
+This is  the file for lab stream, and this can send the file in locally. and the data send is examply.
+```
+[Sender3.py](https://github.com/UASensorLab/Labstreaming/blob/main/sender%20(3).py) send file.
+
+[receiver(3).py](https://github.com/UASensorLab/Labstreaming/blob/main/receiver%20(3).py) receiver.
