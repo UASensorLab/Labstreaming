@@ -9,3 +9,9 @@ This need run the [Receiver.py] first.
 [Client Side (Sender).py](https://github.com/UASensorLab/Labstreaming/blob/main/Client%20Side%20(Sender).py) Sending the message: 'This is work'.
 
 [Server Side (Receiver).py](https://github.com/UASensorLab/Labstreaming/blob/main/Server%20Side%20(Receiver).py) Receive the message.
+
+### ECG file read and dashboard:
+``` bash
+The file type '.hea' and '.dat' is the file use for ECG.
+```
+[1.py](https://github.com/UASensorLab/Labstreaming/blob/main/1.py) This file is read ECG and have dashboard.
